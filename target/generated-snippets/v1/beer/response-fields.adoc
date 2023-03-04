@@ -1,0 +1,40 @@
+|===
+|Path|Type|Description
+
+|`+id+`
+|`+Null+`
+|Id of the Beer
+
+|`+version+`
+|`+Null+`
+|Id of the Beer
+
+|`+createdDate+`
+|`+Null+`
+|Date created
+
+|`+lastModifiedDate+`
+|`+Null+`
+|Date updated
+
+|`+beerName+`
+|`+Null+`
+|Beer name
+
+|`+beerStyle+`
+|`+Null+`
+|Beer style
+
+|`+upc+`
+|`+Null+`
+|Upc of beer
+
+|`+price+`
+|`+Null+`
+|Price
+
+|`+quantityOnHand+`
+|`+Null+`
+|Quantity on hand
+
+|===
