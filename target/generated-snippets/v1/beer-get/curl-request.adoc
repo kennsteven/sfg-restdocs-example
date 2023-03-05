@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'https://dev.kenneth.test:80/api/v1/beer/a5bb613e-23c2-473e-a6e8-cb3260ddc032?isCold=yes' -i -X GET \
+    -H 'Accept: application/json'
+----

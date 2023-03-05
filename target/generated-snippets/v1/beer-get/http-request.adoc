@@ -1,0 +1,7 @@
+[source,http,options="nowrap"]
+----
+GET /api/v1/beer/a5bb613e-23c2-473e-a6e8-cb3260ddc032?isCold=yes HTTP/1.1
+Accept: application/json
+Host: dev.kenneth.test:80
+
+----
